@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700853507 source:/home/podgorny/projects/work_4/krestik/main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
